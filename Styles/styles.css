@@ -24,6 +24,7 @@ a.active {
     width: 300px;
 }
 
+
 h1,
 h2,
 h3,
@@ -442,3 +443,9 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+.tech-logo {
+    max-height: 40% !important;
+    max-height: 40% !important;
+}
+
